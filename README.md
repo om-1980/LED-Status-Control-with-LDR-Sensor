@@ -1,4 +1,4 @@
-An LDR sensor (Light Dependent Resistor) is a device that is used to detect light. It detects the light intensity. We use it to control the lights, when there is dark it detects light intensity and blows the lights. As it mainly used in mobiles for auto-brightness and smart street lights.google
+An LDR sensor (Light Dependent Resistor) is a device that is used to detect light. It detects the light intensity. We use it to control the lights, when it is dark it detects light intensity and blows the lights. It is mainly used in mobiles for auto-brightness and smart street lights.
 
 # Requirement
     * Arduino UNO / NODEMCU
@@ -18,6 +18,8 @@ To control the status of an LED with an LDR sensor, follow these steps:
 7. Repeat this process in a loop to continuously monitor the light intensity and control the LED status according to the LDR sensor readings.
 
 # Circuit Diagram
+![Circuit](https://github.com/om-1980/LED-Status-Control-with-LDR-Sensor/assets/111452597/9ab875c7-1bd3-4e93-9c84-f97fefd456e5)
+![Circuit1](https://github.com/om-1980/LED-Status-Control-with-LDR-Sensor/assets/111452597/cb3744a8-72d6-4e6a-93b1-16df6a6d1d80)
 
 
 # Demo Link
